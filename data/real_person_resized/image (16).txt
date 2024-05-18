@@ -1,0 +1,5 @@
+Sure, here's a detailed description for recreating the image in Stable Diffusion:
+
+"""photo of a young adult male, lying on his side on a white pillow, smooth and flawless skin, closed eyes, relaxed expression, slightly parted lips, high-arched and well-groomed eyebrows, clean-shaven look, dark brown hair, slightly wavy, falling naturally and spread over the pillow, soft lighting, serene and peaceful mood, plain white t-shirt, head resting on the pillow, hand under the pillow, lying on a smooth white bedsheet, background is a simple and gradient from light grey to white, no distractions, focus solely on the sleeping male"""
+
+This description should help in precisely recreating the image using Stable Diffusion.

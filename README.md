@@ -33,3 +33,6 @@ Model = moondream
 
 API = GPT4V
 ```
+7. Create regularization dataset using generated captions (Stable Diffusion / MidJourney / DallE)
+8. In our original dataset, remove all tags that describe our character
+9. Add "sks man" tag to all images
