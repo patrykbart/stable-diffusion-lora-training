@@ -1,3 +1,6 @@
 [submodule "diffusers"]
 	path = diffusers
 	url = https://github.com/huggingface/diffusers.git
+[submodule "GPT4V-Image-Captioner"]
+	path = GPT4V-Image-Captioner
+	url = git@github.com:jiayev/GPT4V-Image-Captioner.git
